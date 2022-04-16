@@ -33,7 +33,7 @@ export default class About extends Component {
                      {pageData.address}
                     </span>
                     <br></br>
-                    <span>{pageData.website}</span>
+                    <span>{pageData.phone}</span>
        					   </p>
                   </div>
                </div>

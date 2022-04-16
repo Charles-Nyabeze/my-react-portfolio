@@ -2,7 +2,7 @@ let pageData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Charles N. Nyabeze",
     "role": "2x Founder + Fullstack Dev",
-    "linkedinId":"charles-nyabeze",
+    "emailId":"charlesnnyabeze@gmail.com",
     "skypeid": "1249",
     "roleDescription": "I love to code, snowboard, and learn about crypto",
     "socialLinks":[
@@ -23,15 +23,15 @@ let pageData = {
         }
       ],
     "aboutme":"I am currently attending Carleton University Learning Fullstack Web Development.I also am Co-Founding my Web3 Startup Agora Labs.Work hard, Play hard",
-    "address":"Canada",
-    "website":"https://charles-nyabeze.github.io",
+    "address":"Toronto, Canada",
+    "phone":"705-671-7171",
     "education":[
       {
         "UniversityName":"Carleton University",
         "specialization":"Web Development",
         "MonthOfPassing":"May",
         "YearOfPassing":"2022",
-        "Achievements":"Honors"
+        "Achievements":"Passed with deep knowledge in backend and frontend technology, along with an understanding of data structures."
       }
     ],
     "work":[
@@ -39,15 +39,15 @@ let pageData = {
         "CompanyName":"Agora Labs",
         "specialization":"Founder",
         "MonthOfLeaving":"current",
-        "YearOfLeaving":".",
-        "Achievements":"Early"
+        "YearOfLeaving":"from 2021",
+        "Achievements":"Helped Found a Web3 VC Backed startup from scratch!"
       },
       {
         "CompanyName":"Future North",
         "specialization":"Business Administration",
         "MonthOfLeaving":"March",
         "YearOfLeaving":"2022",
-        "Achievements":"Intern"
+        "Achievements":"Helped create content and assisted with various website/admin work"
       }
     ],
     "skillsDescription":"Your skills here",
@@ -66,17 +66,17 @@ let pageData = {
       {
         "name":"GameZone",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/gamezone.png"
       },
       {
         "name":"Social Media Backend",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "description":"backend",
+        "imgurl":"images/portfolio/socailapi.png"
       },
       {
         "name":"TrailFinder",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "description":"trail app",  
+        "imgurl":"images/portfolio/trailfinders.png"
       }
     ],
     "testimonials":[
